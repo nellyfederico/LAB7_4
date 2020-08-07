@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.exe
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.deps.json
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.dll
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\bin\Debug\netcoreapp3.1\LAB7_4DatingGames.pdb
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.dll
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.pdb
+C:\Users\nalle\source\repos\LAB7_4DatingGames\LAB7_4DatingGames\obj\Debug\netcoreapp3.1\LAB7_4DatingGames.genruntimeconfig.cache
